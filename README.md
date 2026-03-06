@@ -1,2 +1,11 @@
 # spline_theory
-Classical textbook about spline theory, such as B-spline, NURBS, T-spline, etc.
+
+Classic textbook about spline theory, such as B-spline, NURBS, T-spline, etc.
+
+## Recommended Textbooks
+
+- **The NURBS Book** by Les Piegl and Wayne Tiller (1997) - The definitive reference on NURBS curves and surfaces
+- **Curves and Surfaces for CAGD: A Practical Guide** by Gerald Farin (2002) - Comprehensive guide to computer-aided geometric design
+- **Spline Functions: Basic Theory** by Larry L. Schumaker (1981) - Mathematical theory of spline functions
+- **B-Spline Wavelets** by Charles K. Chui (1992) - Introduction to B-spline wavelets
+- **Geometric Modeling** by Michael E. Mortenson (1985) - General geometric modeling techniques including splines
